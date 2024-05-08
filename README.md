@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **prasun2023work@gmail.com**
 
-- 📄 Know about my experiences ["resume link"]("resume link")
+- 📄 Know about my experiences ["resume link"](https://docs.google.com/document/d/1-A3eaN4cUf6gM0lJoY8w66_rDxYJ1Ac7nyPbXRJr0KY/edit?usp=sharing)
 
 - ⚡ Fun fact **I can learn any tech in small amount of time "at least the things will work😅" and as hobby I make games.**
 
