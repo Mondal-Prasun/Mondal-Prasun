@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 <h1 align="center">Hi 👋, I'm Prasun Mondal</h1>
 <h3 align="center">Hii! I am a Flutter Developer and a student from India who is trying build projects that I love.🤖</h3>
 <!-- <img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif"> </img> -->
