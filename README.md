@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mondal-prasun" alt="mondal-prasun" /></a> </p>
 
-- 🔭 I’m currently working on ["Mytube" a Instagram reel clone](https://github.com/Mondal-Prasun/mytube_instgramReel_clone)
-
 - 🌱 I’m currently learning **Flutter,Firebase and golang for various things**
 
 - 💬 Ask me about **Flutter and Android or Ios apps.**
